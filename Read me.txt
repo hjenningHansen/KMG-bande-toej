@@ -1,0 +1,27 @@
+Hey!
+
+Here you will find help to replace the T-shirt!
+________________________________________________
+
+Install:
+mods > update > x64 > dlcpacks > mpgunrunning > dlc.rpf > x64 > models > cdimages > mpgunrunning_female.rpf > mp_f_freemode_01_mp_f_gunrunning_.01
+
+Then just drag or copy the ydd & ytd file into OpenIV and replace:
+
+(jbib_026_u.ydd)
+(jbib_diff_026_a_uni.ytd)
+________________________________________________
+
+Thank you for useing my design:)
+________________________________________________
+
+You can find me on:
+
+Instagram: @GrayAnarchy.awr
+
+or contact me on GrayAnarchyyt@gmail.com
+________________________________________________
+Have a nice day, evening or night.
+
+-GrayAnarchy
+
